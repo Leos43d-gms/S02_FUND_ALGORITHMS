@@ -1,1 +1,2 @@
 print("principal")
+princ("actualización")
